@@ -1,0 +1,9 @@
+! Swap Caps Lock and Control
+remove Lock = Caps_Lock
+keysym Caps_Lock = Control_L
+add Lock = Caps_Lock
+add Control = Control_L
+
+! Map Caps Lock to Escape when pressed twice
+keycode 66 = Multi_key
+keysym Multi_key = Escape Escape
