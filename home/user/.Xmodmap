@@ -1,4 +1,5 @@
 ! Swap Caps Lock and Control
+! execute all of these commands one by one
 remove Lock = Caps_Lock
 keysym Caps_Lock = Control_L
 add Lock = Caps_Lock
