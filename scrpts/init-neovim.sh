@@ -12,5 +12,6 @@ npm install -g neovim@4.10.1
 sudo apt-get install cargo=1.65.0
 echo 'export PATH="$PATH:/home/nikola/.local/bin"' >> ~/.bashrc
 echo 'export PATH="$PATH:/home/nikola/.cargo/bin"' >> ~/.bashrc
+source ~/.bashrc
 cargo install stylua --version 0.16.1
 sudo apt-get install ripgrep=11.0.2-1ubuntu0.1 -y
