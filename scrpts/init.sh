@@ -5,3 +5,4 @@ sudo snap install docker
 ./init-neovim.sh
 ./project-installs.sh
 ./xmodmap.sh
+./init-nerdfonts.sh
