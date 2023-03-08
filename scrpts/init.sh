@@ -8,3 +8,4 @@ sudo snap install docker
 ./init-nerdfonts.sh
 sudo apt-get install -y keepassxc
 sudo apt-get install -y fzf
+sudo apt-get install -y xclip
