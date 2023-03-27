@@ -7,7 +7,7 @@ sudo apt-get install pip3=20.0.2
 pip3 install black==23.1.0
 pip3 install flake8==6.0.0
 pip3 install yapf==0.32.0
-pip3 install pynvim=0.4.3
+pip3 install pynvim==0.4.3
 npm install -g neovim@4.10.1
 sudo apt-get install cargo=1.65.0
 echo 'export PATH="$PATH:/home/nikola/.local/bin"' >> ~/.bashrc

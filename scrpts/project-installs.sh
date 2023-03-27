@@ -12,3 +12,4 @@ rm -f packages.microsoft.gpg
 sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code # or code-insiders
+# install azure data studio by following microsoft learn
