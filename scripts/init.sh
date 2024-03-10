@@ -6,6 +6,7 @@ sudo chmod +x init-neovim.sh && ./init-neovim.sh
 sudo chmod +x project-installs.sh && ./project-installs.sh
 sudo chmod +x init-xmodmap.sh && ./init-xmodmap.sh
 sudo chmod +x init-nerdfonts.sh && ./init-nerdfonts.sh
+sudo chmod +x init-tmux.sh && ./init-tmux.sh
 touch ~/.bash_aliases
 echo ./non-install/.bash_aliases >> ~/.bash_aliases
 echo ./non-install/.bashrc >> ~/.bashrc
